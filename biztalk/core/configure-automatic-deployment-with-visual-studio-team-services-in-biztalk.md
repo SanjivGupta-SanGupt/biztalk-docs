@@ -1,6 +1,6 @@
 ---
-title: "Configure automatic deployment with Visual Studio Team Services | Microsoft Docs"
-description: Install BizTalk Feature Pack to use application lifecycle management with VSTS to deploy your applications to different BizTalk environments
+title: "Configure automatic deployment with Azure DevOps Services | Microsoft Docs"
+description: Install BizTalk Feature Pack to use application lifecycle management with Azure DevOps to deploy your applications to different BizTalk environments
 ms.custom: ""
 ms.date: "11/20/2017"
 ms.prod: "biztalk-server"
@@ -15,7 +15,7 @@ author: MandiOhlinger
 ms.author: mandia
 manager: "anneta"
 ---
-# Configure automatic deployment with Visual Studio Team Services in BizTalk Server
+# Configure automatic deployment with Azure DevOps Services in BizTalk Server
 
 ## Overview
 
